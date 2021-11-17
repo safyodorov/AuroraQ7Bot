@@ -1,2 +1,2 @@
-worker: python auroraq7bot.py $PORT
+worker: python AuroraQ7bot.py $PORT
 $ heroku ps:scale web=1
