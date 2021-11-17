@@ -9,4 +9,3 @@ six==1.10.0
 virtualenv==15.1.0
 virtualenv-clone==0.3.0
 schedule==1.1.0
-gunicor==20.1.0
