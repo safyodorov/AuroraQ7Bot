@@ -2,7 +2,7 @@ pipenv==11.8.0
 Django
 psutil==5.0.1
 pyparsing==2.2.0
-pyTelegramBotAPI==3.6.1
+pyTelegramBotAPI==4.2.0
 python-telegram-bot==7.0.1
 requests
 six==1.10.0
