@@ -1,0 +1,1 @@
+worker: python auroraq7bot.py $PORT
